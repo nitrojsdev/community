@@ -1,3 +1,3 @@
 # 💬 Nitro community notes
 
-##  ~> Head to the [Discussions](https://github.com/nitrojsdev/community/discussions) tab!
+Please go to the [discussions](https://github.com/nitrojsdev/community/discussions) tab.
